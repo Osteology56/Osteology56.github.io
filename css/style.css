@@ -1,0 +1,59 @@
+body{
+background: #07B5A9;
+font-family: Arial;
+font-size: 15px;
+color: black;
+height: 100%;
+}
+
+	h1{text-align: center;
+		font-size: 40px;
+	}
+
+.navbar-brand{font-size: 30px;
+	font-style: bold;
+}
+
+.navbar {
+	 background: #46265C;
+	 color: white;
+	 border-style: solid;
+border-color: #4f677a;
+border-width: 3px 3px 3px;
+width: 100%;
+z-index: 1000;
+padding:0;
+ 	}
+
+.nav {display: inline;
+margin-right: 30px;
+font-style: italic;
+
+}
+.card-text1{text-align: justify;}
+
+h4{font-weight: bold;
+font-size: 20px;}
+
+a{color: white;
+font-size: 20px;}
+
+a:hover{color: white}
+
+.card{margin: 10px;
+border-color: #4f677a;
+border-style: solid;
+border-width: 2px;
+border-radius: 20px}
+
+.button{height: 30px}
+
+.jumbotron{
+    background-image: url("../img/skel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+    vertical-align: center;
+
+}
